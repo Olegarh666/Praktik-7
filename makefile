@@ -2,8 +2,8 @@
 
 CC = gcc
 CFLAGS = -Wall -Wextra
-TARGET = guess_game
-SRC = guess_game.c
+TARGET = ex1
+SRC = Ex1.c
 
 all: $(TARGET)
 
